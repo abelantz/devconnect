@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://abelant:root@devconnector-e2gij.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "Iv1.84558a0c187f7164",
+    "githubSecret": "fd00773083851cb234a623dd800c959b7d363f85"
+}
